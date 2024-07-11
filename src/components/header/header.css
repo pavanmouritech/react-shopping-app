@@ -1,0 +1,23 @@
+.headerlogo{
+    width:150px;
+    height:80px;
+    border-radius: 5%;
+  }
+  .button{
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+  }
+  .text{
+    font-size: 18px;
+    color: #fff;
+  }
+  .input-group-text {
+    background-color: #f0f0f0;
+    border-color: #ced4da;
+    color: #6c757d;
+  }
+  .input-group-text i {
+    font-size: 1rem;
+  }
