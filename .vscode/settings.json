@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5851fce6-c44e-485d-95c2-a7f8f0a995e1/resourceGroups/React-Shopping-App/providers/Microsoft.Web/sites/ReactShoppingApp",
+    "appService.deploySubpath": "."
+}
